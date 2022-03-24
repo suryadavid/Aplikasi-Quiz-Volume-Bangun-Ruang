@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizDavid</string>
+    <string name="masukan_panjang">Masukan Panjang :</string>
+    <string name="masukan_lebar">Masukan Lebar :</string>
+</resources>
